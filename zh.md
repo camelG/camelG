@@ -1,10 +1,10 @@
-**English** | [日本語](./ja.md) | [中文](./zh.md)
+**中文** | [English](./README.md) | [日本語](./ja.md)
 
-My name is Tani Nei, a software developer based in Osaka, Japan. With over 10 years of experience, I have worked equally on both backend and frontend development, specializing in [React, Vue, Laravel].
+大家好，我叫谷宁，是一名居住在日本大阪的软件开发工程师。我拥有超过 10 年的开发经验，擅长前后端的全栈开发，尤其精通 [React、Vue、Laravel]。
 
-I have independently designed, developed, and deployed complex systems such as e-commerce platforms, CMS solutions, and billing systems from scratch. As a pragmatic code quality evangelist, I am always eager to enhance my skills and share my passion for building maintainable, extensible, and robust solutions.
+我曾独立设计、开发并部署过，包括电商平台、CMS 解决方案以及计费系统。从零开始搭建项目是我的强项。作为一名注重实际的代码质量倡导者，我始终致力于提升自己的技能，并以打造可维护、可扩展且高可靠性的解决方案为目标。同时，我也非常乐于与他人分享我的经验与热情。
 
-## 🛠️ My Tech Stack
+## 🛠️ 擅长领域
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript) ![Typescript](https://img.shields.io/badge/-Typescriipt-000?&logo=Typescript) ![React](https://img.shields.io/badge/-React-000?&logo=React) ![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js) ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js) ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP) ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 
@@ -18,8 +18,8 @@ I have independently designed, developed, and deployed complex systems such as e
 
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git) ![Github](https://img.shields.io/badge/-Github-000?&logo=Github)
 
-## 🌱 Currently Learning
+## 🌱 正在学习中
 
-- 🧑‍💻 Improving skills in **Flutter**
+- 🧑‍💻 正在学习和使用 **Flutter** 开发 APP
 
 ![GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWY3OGxqZ3Z6NHJ5a3R6bHh3eDRpNjRlbXR2ZmhscWI3aGh3NWMzZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif)
